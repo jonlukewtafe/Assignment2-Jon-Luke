@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace assignment_2_car_rental_system
 {
-    class Service
+    public class Service
     {
         // Constant to indicate that the vehicle needs to be serviced every 10,000km
         public static int SERVICE_KILOMETER_LIMIT = 10000;

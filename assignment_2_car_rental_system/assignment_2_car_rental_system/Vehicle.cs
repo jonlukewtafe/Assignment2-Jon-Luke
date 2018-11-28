@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace assignment_2_car_rental_system
 {
-    class Vehicle
+    public class Vehicle
     {
         public String Manufacturer { get; set; }
         public String Model { get; set; }

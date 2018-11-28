@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace assignment_2_car_rental_system
 {
-    class FuelPurchase
+    public class FuelPurchase
     {
         public double Litres { get; set; }
         public double Cost { get; set; }

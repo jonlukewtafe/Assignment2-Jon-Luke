@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace assignment_2_car_rental_system
 {
-    class Journey
+    public class Journey
     {
         private double kilometers;
 
